@@ -1,1 +1,1 @@
-# typing-text-effect
+# Typing Text Effect
